@@ -39,3 +39,4 @@ add_executable(tng
         widemuldiv.h
         xtc2.c
         xtc3.c)
+target_link_libraries(tng m)
