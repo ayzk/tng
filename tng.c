@@ -97,7 +97,7 @@ void writefloat(char *filename, float *data, size_t nbEle) {
 
 int main(int argc, char *argv[]) {
 
-    if (argc < 6) {
+    if (argc < 8) {
         printf("Test case: tng [filex] [filey] [filez] [ntimesteps] [natoms] [reb] blocksize \n");
         printf("Example: tng exaalt-5423x3137/x.f32.dat exaalt-5423x3137/y.f32.dat exaalt-5423x3137/z.f32.dat 5423 3137 1e-3 10\n");
         exit(0);
