@@ -1,10 +1,8 @@
 /**
- *  @file test_compress_ts.c
- *  @author Sheng Di
- *  @date May, 2018
- *  @brief This is an example of using compression interface
- *  (C) 2015 by Mathematics and Computer Science (MCS), Argonne National Laboratory.
- *      See COPYRIGHT in top-level directory.
+ *  @file tng.c
+ *  @author Kai Zhao
+ *  @date July, 2021
+ *  @brief This is an example of using TNG compression interface
  */
 
 
